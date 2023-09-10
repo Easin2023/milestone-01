@@ -1,0 +1,25 @@
+*{
+    margin: 20px;
+    t
+}
+.header{
+    -webkit-text-fill-color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline white;
+    height: 200px;
+    background-image: url(pic\ hw3.jpg);
+    background-size:cover;
+}
+.q{
+    border: 8px solid tomato;
+    background-color: aqua;
+    box-shadow: 10px 10px 10px brown;
+}
+h1{
+    margin: 20px 40px;
+    color:black;
+    border-bottom: 10px solid black;
+}
+

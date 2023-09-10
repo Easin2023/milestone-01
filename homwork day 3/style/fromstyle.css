@@ -1,0 +1,59 @@
+*{
+    
+}
+.search{
+    /* width: 100%; */
+    text-align: center;
+    padding:50px;
+
+}
+input{
+    width: 350px;
+    height: 28px;
+}
+button{
+    font-size: 13px;
+}
+.image{
+    background-image: url(panda\ white\ png.webp);
+    background-size: cover;
+    /* background-position:100px; */
+    padding: 50px;
+    height: 500px;
+    
+}
+header{
+    margin:30px;
+    padding: 10px 30px;
+}
+label > input{
+    /* font-size: small; */
+    display:block;
+    margin-top: 10px;
+    align-items: center;
+}
+input,::placeholder{
+    font-size: small;
+    
+}
+h1{
+    text-align: center;
+}
+.input-text{
+    border: 2px solid brown;
+    
+}
+form{
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tu{
+    margin-top: 10px;
+    margin-left:260px ;
+}
+.text{
+    margin-left: 0px;
+}
+
+   

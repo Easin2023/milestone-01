@@ -1,0 +1,8 @@
+.external{
+    background-color: rgb(201, 167, 167);
+    border: 8px solid cornflowerblue;
+    padding: 10px 10px;
+    font-style:italic ;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 10px 10px 20px;
+}

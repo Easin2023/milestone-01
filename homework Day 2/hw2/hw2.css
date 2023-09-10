@@ -1,0 +1,28 @@
+.div{
+    border: 10px solid tomato;
+    margin: 20px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline black;
+}
+.header{
+    font-size: 70px;
+    text-align: center;
+    height:200px;
+    -webkit-text-fill-color:rgb(248, 27, 27);
+    background-image:url('photo-1446776811953-b23d57bd21aa.avif');
+    text-decoration: underline blueviolet;
+}
+.p{
+    /* border: 10px solid gold; */
+    padding: 10px 10px ;
+    background-color: aquamarine;
+    box-shadow: 10px 10px 10px;
+}
+li{
+    font-size:larger;
+    font-family: 'Courier New', Courier, monospace;
+    /* border: 5px solid rgb(0, 0, 0); */
+    text-decoration:overline;
+}
